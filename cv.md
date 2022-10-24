@@ -48,6 +48,7 @@ Recently, I decided to completely change my life at the age of 31, quit my posit
 ## Experience
 - **2022** Harvard CS50x Introduction to Computer Science
 - **2022** The Web Developer Bootcamp 2022, Udemy
+- **2022** The Complete 2022 Web Development Bootcamp, Udemy
 - **2022** RS School Javascript/Front-end Mentoring Program in Turkey
 
 ## Education 
