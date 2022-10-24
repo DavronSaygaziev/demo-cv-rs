@@ -19,11 +19,11 @@ Recently, I decided to completely change my life at the age of 31, quit my posit
 - Git, GitHub
 - NODE.JS, C (basic knowledge), Python (basic knowledge)
 - AWS
-- MacOS, Windows OS, Linux(Ubuntu)
+- MacOS, Windows OS, Linux
 - Figma
 - VSCode, Atom, PyCharm.
 
-## Code examples (LATEST)
+## Code examples
     <html>
     <head>
     <style>
