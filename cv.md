@@ -1,4 +1,4 @@
-___________
+
 # Davron Saygaziev
 
 ## Junior Web Developer
@@ -56,4 +56,3 @@ Recently, I decided to completely change my life at the age of 31, quit my posit
 - **2016** IELTS exam overall band score 5,5
 - **2008** ADC Upper-Intermediate course
 
-______________________
