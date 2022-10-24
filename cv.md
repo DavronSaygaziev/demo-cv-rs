@@ -8,6 +8,7 @@
 - **Phone:** +90 531 358 7625
 - **E-mail:** saygaziev@gmail.com
 - **GitHub:** [DavronSaygaziev](https://github.com/DavronSaygaziev)
+- **Telegram** @saygaziev
 
 ## Summary
 Recently, I decided to completely change my life at the age of 31, quit my position as CEO in a small company and started my journey to become a Web Developer.
